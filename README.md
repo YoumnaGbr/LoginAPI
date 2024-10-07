@@ -6,7 +6,7 @@ A simple ASP.NET Core Web API for user authentication, email verification, passw
 
 - **User Registration**: Allows users to register with a unique username and email.
 - **Email Verification**: Sends an OTP for email verification.
-- **Login**: Users can log in with their email and password.
+- **Login**: Users can log in with their username and password.
 - **Forgot Password**: Allows users to reset their password using an OTP sent to their email.
 - **Reset Password**: Users can set a new password using the OTP.
 
@@ -184,6 +184,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### Contact
+### Get in Touch
 
-Feel free to reach out for any queries or suggestions at: youmna.h.gabr@gmail.com
+If you have any questions, feedback, or just want to say hi, feel free to reach out! I'd love to hear from you.
+
+📧 Email: youmna.h.gabr@gmail.com
